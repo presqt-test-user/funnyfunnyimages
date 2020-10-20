@@ -1,0 +1,196 @@
+{
+    "allKeywords": [],
+    "actions": [
+        {
+            "id": "ee74651d-6e61-4e42-b50d-8d32a73ba0fc",
+            "details": "PresQT Transfer from OSF to GitHub",
+            "actionDateTime": "2020-10-20 18:56:27.380091+00:00",
+            "actionType": "resource_transfer_in",
+            "sourceTargetName": "osf",
+            "sourceUsername": "Prometheus",
+            "destinationTargetName": "github",
+            "destinationUsername": "presqt-test-user",
+            "keywords": {},
+            "files": {
+                "created": [
+                    {
+                        "destinationPath": "/funnyfunnyimages/osfstorage/Screen_Shot_2019-07-15_at_3.51.13_PM.png",
+                        "destinationHashes": {},
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "9a59806af9a3d4bf8a9cdd5ff0d9fa11",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "Screen Shot 2019-07-15 at 3.51.13 PM.png",
+                        "sourceHashes": {
+                            "md5": "9a59806af9a3d4bf8a9cdd5ff0d9fa11",
+                            "sha256": "8aeaa50cfd309009bd3d8648143ec15cbb96c0e4c1575b4c5cee53bdc982d946"
+                        },
+                        "sourcePath": "/funnyfunnyimages/osfstorage/Screen Shot 2019-07-15 at 3.51.13 PM.png",
+                        "extra": {
+                            "id": "5f85d14637b6bb009030d740",
+                            "parent_project_id": "s2d4p",
+                            "endpoint": "https://api.osf.io/v2/files/5f85d14637b6bb009030d740/",
+                            "download_url": "https://files.osf.io/v1/resources/s2d4p/providers/osfstorage/5f85d14637b6bb009030d740",
+                            "upload_url": "https://files.osf.io/v1/resources/s2d4p/providers/osfstorage/5f85d14637b6bb009030d740",
+                            "delete_url": "https://files.osf.io/v1/resources/s2d4p/providers/osfstorage/5f85d14637b6bb009030d740",
+                            "last_touched": null,
+                            "date_modified": "2020-10-13T16:09:42.471261Z",
+                            "current_version": 1,
+                            "date_created": "2020-10-13T16:09:42.471261Z",
+                            "provider": "osfstorage",
+                            "path": "/5f85d14637b6bb009030d740",
+                            "current_user_can_comment": true,
+                            "guid": null,
+                            "checkout": null,
+                            "tags": [],
+                            "size": 196163
+                        }
+                    },
+                    {
+                        "destinationPath": "/funnyfunnyimages/osfstorage/Screen_Shot_2019-07-15_at_3.26.49_PM.png",
+                        "destinationHashes": {},
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "3505a89c3cbb82873a107ae41f3997c3",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "Screen Shot 2019-07-15 at 3.26.49 PM.png",
+                        "sourceHashes": {
+                            "md5": "3505a89c3cbb82873a107ae41f3997c3",
+                            "sha256": "6d33275234b28d77348e4e1049f58b95a485a7a441684a9eb9175d01c7f141ea"
+                        },
+                        "sourcePath": "/funnyfunnyimages/osfstorage/Screen Shot 2019-07-15 at 3.26.49 PM.png",
+                        "extra": {
+                            "id": "5f85d1430847120096fdad11",
+                            "parent_project_id": "s2d4p",
+                            "endpoint": "https://api.osf.io/v2/files/5f85d1430847120096fdad11/",
+                            "download_url": "https://files.osf.io/v1/resources/s2d4p/providers/osfstorage/5f85d1430847120096fdad11",
+                            "upload_url": "https://files.osf.io/v1/resources/s2d4p/providers/osfstorage/5f85d1430847120096fdad11",
+                            "delete_url": "https://files.osf.io/v1/resources/s2d4p/providers/osfstorage/5f85d1430847120096fdad11",
+                            "last_touched": null,
+                            "date_modified": "2020-10-13T16:09:39.912263Z",
+                            "current_version": 1,
+                            "date_created": "2020-10-13T16:09:39.912263Z",
+                            "provider": "osfstorage",
+                            "path": "/5f85d1430847120096fdad11",
+                            "current_user_can_comment": true,
+                            "guid": null,
+                            "checkout": null,
+                            "tags": [],
+                            "size": 731202
+                        }
+                    }
+                ],
+                "updated": [],
+                "ignored": []
+            }
+        },
+        {
+            "id": "1d5f89ec-fce9-45f0-b5d8-df75571d2acf",
+            "details": "PresQT Transfer from OSF to FigShare",
+            "actionDateTime": "2020-10-20 17:21:53.227551+00:00",
+            "actionType": "transfer_enhancement",
+            "sourceTargetName": "osf",
+            "sourceUsername": "Prometheus",
+            "destinationTargetName": "osf",
+            "destinationUsername": "Prometheus",
+            "keywords": {
+                "sourceKeywordsAdded": [],
+                "sourceKeywordsEnhanced": [],
+                "ontologies": [],
+                "enhancer": "scigraph"
+            },
+            "files": {
+                "created": [],
+                "updated": [],
+                "ignored": []
+            }
+        },
+        {
+            "id": "9e6e1721-ff1f-4697-b095-22283a62447c",
+            "details": "PresQT Transfer from OSF to FigShare",
+            "actionDateTime": "2020-10-20 16:38:56.802060+00:00",
+            "actionType": "transfer_enhancement",
+            "sourceTargetName": "osf",
+            "sourceUsername": "Prometheus",
+            "destinationTargetName": "osf",
+            "destinationUsername": "Prometheus",
+            "keywords": {
+                "sourceKeywordsAdded": [],
+                "sourceKeywordsEnhanced": [],
+                "ontologies": [],
+                "enhancer": "scigraph"
+            },
+            "files": {
+                "created": [],
+                "updated": [],
+                "ignored": []
+            }
+        },
+        {
+            "id": "845f5920-2577-42da-ad79-7024d7dceac6",
+            "details": "PresQT Upload to OSF",
+            "actionDateTime": "2020-10-13 16:09:34.344060+00:00",
+            "actionType": "resource_upload",
+            "sourceTargetName": "Local Machine",
+            "sourceUsername": null,
+            "destinationTargetName": "osf",
+            "destinationUsername": "Prometheus",
+            "keywords": {},
+            "files": {
+                "created": [
+                    {
+                        "destinationHashes": {
+                            "sha256": "6d33275234b28d77348e4e1049f58b95a485a7a441684a9eb9175d01c7f141ea"
+                        },
+                        "destinationPath": "/funnyfunnyimages/osfstorage/Screen Shot 2019-07-15 at 3.26.49 PM.png",
+                        "failedFixityInfo": [],
+                        "title": "Screen Shot 2019-07-15 at 3.26.49 PM.png",
+                        "sourceHashes": {
+                            "sha256": "6d33275234b28d77348e4e1049f58b95a485a7a441684a9eb9175d01c7f141ea"
+                        },
+                        "sourcePath": "/funnyfunnyimages/Screen Shot 2019-07-15 at 3.26.49 PM.png",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {
+                            "sha256": "8aeaa50cfd309009bd3d8648143ec15cbb96c0e4c1575b4c5cee53bdc982d946"
+                        },
+                        "destinationPath": "/funnyfunnyimages/osfstorage/Screen Shot 2019-07-15 at 3.51.13 PM.png",
+                        "failedFixityInfo": [],
+                        "title": "Screen Shot 2019-07-15 at 3.51.13 PM.png",
+                        "sourceHashes": {
+                            "sha256": "8aeaa50cfd309009bd3d8648143ec15cbb96c0e4c1575b4c5cee53bdc982d946"
+                        },
+                        "sourcePath": "/funnyfunnyimages/Screen Shot 2019-07-15 at 3.51.13 PM.png",
+                        "extra": {}
+                    }
+                ],
+                "updated": [],
+                "ignored": []
+            }
+        }
+    ],
+    "extra_metadata": {
+        "title": "funnyfunnyimages",
+        "creators": [
+            {
+                "first_name": "Prometheus",
+                "last_name": "",
+                "ORCID": null
+            }
+        ],
+        "publication_date": "2020-10-13T16:09:36.841851",
+        "description": "These are rather humorous images. Have a look at them. Like, comment and subscribe for more content.",
+        "keywords": [],
+        "license": null,
+        "related_identifiers": [],
+        "references": null,
+        "notes": null
+    }
+}
